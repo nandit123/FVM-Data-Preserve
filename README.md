@@ -1,4 +1,4 @@
-# FEVM Hardhat Kit
+# FVM Data Preserve
 
 ## Cloning the Repo
 
@@ -57,4 +57,15 @@ Type in the following command in the terminal:
 yarn hardhat deploy
 ```
 
+## Live Contract on Wallaby Contract
+
+ProjectFactory deployed on FEVM - https://explorer.glif.io/tx/bafy2bzacedzsa6yvi7ffkfeq6zyhnrsr52y6gmxv3opwpzqpg37icuh5lbi2m/?network=wallabynet
+
+Deployer F4 Address: f410frixunsw5uwxpubyg6n7plwmdijiegpc2c4gr7wa
+
+Ethereum Address: 0x8a2F46CADDA5aeFA0706F37EF5D9834250433c5A
+ 
+ ```
+yarn hardhat deploy
+```
 This will compile the contract and deploy it to the Wallaby network automatically!
